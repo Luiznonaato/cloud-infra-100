@@ -16,7 +16,7 @@ Every project is open source. Every week, a new one.
 | 2 | Kubernetes Observability with kube-prometheus-stack | 🛠️ Project | Kubernetes, Prometheus, Grafana, AlertManager, k3d | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7441251123383914497/) | [GitHub](https://github.com/Luiznonaato/kube-prometheus-stack) |
 | 3 | On-prem seemed obvious. Until we did the math. | 📖 Lesson | Azure, AKS, FinOps, On-prem vs Cloud | [LinkedIn](https://www.linkedin.com/pulse/on-prem-seemed-obvious-until-we-did-math-parecia-%C3%B3bvio-luiz-nonato-unvwf) | — |
 | 4 | When should you use Terraform to manage your infrastructure? | 📖 Lesson | Terraform, IaC | [LinkedIn](https://www.linkedin.com/pulse/when-should-you-use-terraform-manage-your-quando-usar-luiz-nonato-q1luf/) | — |
-| 5 | Terraform CI/CD Pipeline for EKS on AWS | 🛠️ Project | Terraform, AWS, EKS, GitHub Actions, S3, DynamoDB | [add link when available] | [GitHub](https://github.com/Luiznonaato/terraform-aws-pipeline) |
+| 5 | Terraform CI/CD Pipeline for EKS on AWS | 🛠️ Project | Terraform, AWS, EKS, GitHub Actions, S3, DynamoDB | [LinkedIn](https://www.linkedin.com/posts/luiznonaato_github-luiznonaatoterraform-aws-pipeline-activity-7448757910681264128-JSx2) | [GitHub](https://github.com/Luiznonaato/terraform-aws-pipeline) |
 
 ---
 
