@@ -17,6 +17,8 @@ Every project is open source. Every week, a new one.
 | 3 | On-prem seemed obvious. Until we did the math. | 📖 Lesson | Azure, AKS, FinOps, On-prem vs Cloud | [LinkedIn](https://www.linkedin.com/pulse/on-prem-seemed-obvious-until-we-did-math-parecia-%C3%B3bvio-luiz-nonato-unvwf) | — |
 | 4 | When should you use Terraform to manage your infrastructure? | 📖 Lesson | Terraform, IaC | [LinkedIn](https://www.linkedin.com/pulse/when-should-you-use-terraform-manage-your-quando-usar-luiz-nonato-q1luf/) | — |
 | 5 | Terraform CI/CD Pipeline for EKS on AWS | 🛠️ Project | Terraform, AWS, EKS, GitHub Actions, S3, DynamoDB | [LinkedIn](https://www.linkedin.com/posts/luiznonaato_github-luiznonaatoterraform-aws-pipeline-activity-7448757910681264128-JSx2) | [GitHub](https://github.com/Luiznonaato/terraform-aws-pipeline) |
+| 6 | — | — | — | [add link when available] | — |
+| 7 | Hybrid connectivity: the part Microsoft's docs skip | 📖 Lesson | Azure, Networking, ExpressRoute, VPN Gateway, Hybrid Cloud | [LinkedIn](https://www.linkedin.com/posts/luiznonaato_cloudinfra100-azure-networking-activity-7456024171093868544-XsK5) | — |
 
 ---
 
